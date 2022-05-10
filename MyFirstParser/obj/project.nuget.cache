@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ff2GMs3/8cOagg6csfDswJu1lfRSOAH0nxLfzllX0h3xnEyZ70GvtOmwtfmttwxRpehRHYkYl3qVOrUDManR8A==",
+  "success": true,
+  "projectFilePath": "/home/kasper/RiderProjects/MyFirstParser/MyFirstParser/MyFirstParser.fsproj",
+  "expectedPackageFiles": [
+    "/home/kasper/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/home/kasper/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
